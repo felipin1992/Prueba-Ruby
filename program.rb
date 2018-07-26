@@ -28,5 +28,5 @@ end
     puts "3-.Alumnos que aprobaron según nota"
     puts "4-.Salir"
   end
-  puts "A la camita, a la camita. Adiós"
 end
+  puts "A la camita, a la camita. Adiós"
